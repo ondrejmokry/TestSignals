@@ -3,7 +3,7 @@
 Repository with signals and masks used for testing and evaluation of audio inpainting methods. The following single-instrument recordings from the [EBU SQUAM database](https://tech.ebu.ch/publications/sqamcd) are available:
 1. `a08_violin`
 2. `a16_clarinet`
-3. `a18_bassoon`[
+3. `a18_bassoon`
 4. `a25_harp`
 5. `a35_glockenspiel`
 6. `a41_celesta`
