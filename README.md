@@ -57,7 +57,7 @@ For the clean signal, the second argument is "clean".
 
 The set of signals was used before for evaluation in several publications:
 
-- MOKRÝ, O.; RRAJMIC, P. Tweaking autoregressive methods for inpainting of gaps in audio signals. To appear on EUSIPCO 2025. [[arXiv preprint](https://arxiv.org/abs/2403.04433)] [[codes](https://github.com/ondrejmokry/InpaintingAutoregressive)]
+- MOKRÝ, O.; RAJMIC, P. Tweaking autoregressive methods for inpainting of gaps in audio signals. To appear on EUSIPCO 2025. [[arXiv preprint](https://arxiv.org/abs/2403.04433)] [[codes](https://github.com/ondrejmokry/InpaintingAutoregressive)]
 
 - MOKRÝ, O.; MAGRON, P.; OBERLIN, T.; FÉVOTTE, C. Algorithms for audio inpainting based on probabilistic nonnegative matrix factorization. *SIGNAL PROCESSING*, 2022, no. 206, p. 1-10. ISSN: 1872-7557. [[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0165168422004443)] [[arXiv preprint](https://arxiv.org/abs/2206.13768)] [[codes](https://github.com/ondrejmokry/InpaintingNMF)]
     
