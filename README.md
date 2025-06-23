@@ -57,6 +57,8 @@ For the clean signal, the second argument is "clean".
 
 The set of signals was used before for evaluation in several publications:
 
+- MOKRÝ, O.; RRAJMIC, P. Tweaking autoregressive methods for inpainting of gaps in audio signals. To appear on EUSIPCO 2025. [[arXiv preprint](https://arxiv.org/abs/2403.04433)] [[codes](https://github.com/ondrejmokry/InpaintingAutoregressive)]
+
 - MOKRÝ, O.; MAGRON, P.; OBERLIN, T.; FÉVOTTE, C. Algorithms for audio inpainting based on probabilistic nonnegative matrix factorization. *SIGNAL PROCESSING*, 2022, no. 206, p. 1-10. ISSN: 1872-7557. [[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0165168422004443)] [[arXiv preprint](https://arxiv.org/abs/2206.13768)] [[codes](https://github.com/ondrejmokry/InpaintingNMF)]
     
 - MOKRÝ, O.; RAJMIC, P. Audio Inpainting: Revisited and Reweighted. *IEEE/ACM TRANSACTIONS ON AUDIO, SPEECH AND LANGUAGE PROCESSING*, 2020, no. 28, p. 2906-2918. ISSN: 2329-9290. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9222235)] [[arXiv preprint](https://arxiv.org/abs/2001.02480)] [[codes](https://github.com/ondrejmokry/InpaintingRevisited)]
@@ -65,5 +67,5 @@ The set of signals was used before for evaluation in several publications:
 
 - MOKRÝ, O.; RAJMIC, P. *Reweighted l1 minimization for audio inpainting*. SPARS Workshop, Toulouse, France: 2019. [[full text at ResearchGate](https://www.researchgate.net/publication/344840708_Reweighted_l1_minimization_for_audio_inpainting)]
 
-Please note that even though the mentioned publications include testing using the same clean signals, the gap positions might be slightly different due to minor evolution of the algorithm used to distribute the gaps.
+Please note that even though samo of the mentioned publications include testing using the same clean signals, the gap positions might be slightly different due to minor evolution of the algorithm used to distribute the gaps.
 Furthermore, a recording of a wind ensemble was part of the experiments, but it was omitted in the present dataset in order to keep its single-instrument nature.
